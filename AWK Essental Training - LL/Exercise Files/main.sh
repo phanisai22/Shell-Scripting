@@ -1,0 +1,1 @@
+awk 'NF==6{print NF, $0}' dukeofyork.txt
